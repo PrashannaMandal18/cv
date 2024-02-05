@@ -1,0 +1,8 @@
+body {
+ background: #5c3d6d33;
+}
+img {
+    float: right;
+    margin-right: 20px; /* Add some margin to the right for spacing */
+    border-radius: 50%; /* Optional: Add border-radius for a circular image */
+}
